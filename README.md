@@ -1,4 +1,4 @@
-### Hi! Beep Boop! 👋
+### Hi! Beep Boop!
 
 - Working on: Data Mining, NLP, Feedback-loop Systems, Statistical Analysis of Real World Events
 - Learning: Big Data, Rust, Deep Learning
