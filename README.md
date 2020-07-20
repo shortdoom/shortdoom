@@ -2,8 +2,7 @@
 
 - Working on: Data Mining, NLP, Feedback-loop Systems, Statistical Analysis of Real World Events
 - Learning: Big Data, Rust, Deep Learning
-
-I swear to built this account from ground up!
+- Interested in: Industrial Systems Dynamics, Causality
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
