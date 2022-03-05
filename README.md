@@ -1,10 +1,10 @@
-### Beep Boop!
-
-Poke me on twitter if you work on something interesting in web3.
+✨ Poke me on twitter if you work on something interesting in web3.✨ 
 
 ✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack ✨ 
 
-Current focus: protocol design related projects, eg. vaults or stablecoins. did you know there is a gas saving 721? or 4626 describes most of existing DeFi?
+✨ Current: protocol design related projects, eg. vaults or stablecoins ✨ 
+          
+*did you know eip-4626 describes most of the existing DeFi infra?*
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
