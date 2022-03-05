@@ -1,7 +1,14 @@
 ### Beep Boop!
 
 Poke me on twitter if you work on something interesting in web3.
-Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack
+
+Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack.
+
+Currently I focus protocol design (eg. vaults or stablecoins existing mechanisms and different extensions) related projects.
+
+I like new web3 primitives and automation with node/cloud.
+
+Lack time to dig into security.
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
