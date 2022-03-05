@@ -2,13 +2,9 @@
 
 Poke me on twitter if you work on something interesting in web3.
 
-Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack.
+✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack ✨ 
 
-Currently I focus protocol design (eg. vaults or stablecoins existing mechanisms and different extensions) related projects.
-
-I like new web3 primitives and automation with node/cloud.
-
-Lack time to dig into security.
+Current focus: protocol design related projects, eg. vaults or stablecoins. did you know there is a gas saving 721? or 4626 describes most of existing DeFi?
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
