@@ -1,8 +1,7 @@
 ### Beep Boop!
 
-DM on twitter if you are designing new protocol primitives. Happy to commit.
-
-Solidity/EVM/JS/Python/Distributed Systems/Full Stack
+Poke me on twitter if you work on something interesting in web3.
+Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
