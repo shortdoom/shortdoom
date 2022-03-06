@@ -1,8 +1,6 @@
 ✨ Poke me on twitter if you work on something interesting in web3.✨ 
 
-✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack ✨ 
-
-✨ Current: protocol design related projects, eg. vaults or stablecoins ✨ 
+✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack. ✨ 
           
 *did you know eip-4626 describes most of the existing DeFi infra?*
 
