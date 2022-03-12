@@ -1,4 +1,4 @@
-✨ Poke me on twitter if you work on something interesting in web3.✨ 
+✨ DM on twitter.✨ 
 
 ✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack. ✨ 
           
