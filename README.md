@@ -1,8 +1,8 @@
 ✨ DM on twitter.✨ 
 
-✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Full Stack. ✨ 
+✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Aspiring Rust. ✨ 
           
-*did you know eip-4626 describes most of the existing DeFi infra?*
+currently: *hey anon, did you hear about eip-4626? fits everywhere.*
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
