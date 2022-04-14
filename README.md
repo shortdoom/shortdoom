@@ -2,7 +2,7 @@
 
 ✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Aspiring Rust. ✨ 
           
-currently: *hey anon, did you hear about eip-4626? fits everywhere.*
+currently: *ERC4626 vault & stablecoin -fun repositories will be updated in the near future*
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
