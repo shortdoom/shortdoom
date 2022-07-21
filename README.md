@@ -1,10 +1,8 @@
 ✨ DM on twitter.✨ 
 
-✨ Solidity/JS/TS/NodeJS/EVM/Python/Distributed Systems/Aspiring Rust. ✨ 
+✨ Mostly Solidity things. ✨ 
 
-currently: *visit experimental-4626 for multivault extension and other 4626 research*
-
-old: *ERC4626 vault & stablecoin -fun repositories (outdated), check above*
+✨ Stay tuned. ✨ 
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
