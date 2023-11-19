@@ -1,5 +1,5 @@
 
-✨ Mostly Solidity things. ✨ 
+✨ Whagwan? Mostly Solidity things. Sometimes Python. Usually not Javascript. ✨ 
 
 <!--
 **shortdoom/shortdoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
